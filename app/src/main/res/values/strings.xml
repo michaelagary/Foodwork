@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feeding Friends</string>
+    <string name="logo_content_description">Feeding Friends Logo</string>
+    <string name="get_content_description">Button to find food</string>
+    <string name="give_content_description">Button to donate food</string>
+    <string name="prompt_user">What is your location?</string>
+    <string name="directions">City or zipcode</string>
+    <string name="help_user">Enter your city name and state (i.e. Philadelphia, PA) or your zip code</string>
+</resources>
